@@ -4,8 +4,6 @@
 # linear art design in a GUI window that is launched when the program is run.
 
 """
-This art invention allows for the user to adjust certain variables in the design.
-When the program is launched, these controls are shown in the bottom left of the window.
 CONTROLS:
 
     Shift               Adjusts the font size of the controls label
