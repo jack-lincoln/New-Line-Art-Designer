@@ -1,8 +1,11 @@
 # New-Line-Art-Designer
 New Line Art Designer is an interactive art design program. It allows for the user to view and modify various elements of a moving, linear art design in a GUI window that is launched when the program is run.
 
-The accompanying GUI layout file is required for the program to run properly.
+## Requirements
+Ukulele Chimes orequires the following package to run:<br />
+* PyQt5<br />
 
+## How It Works
 The user initiates the design by pressing either the left or right arrow key (to move the image backwards or forward respectively). 
 The initial design consists of several sqaures rotated around the center of the window, creating a circle. 
 The squares slowly expand, making the pattern more intricate.
