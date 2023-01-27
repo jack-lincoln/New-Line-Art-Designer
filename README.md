@@ -2,7 +2,7 @@
 New Line Art Designer is an interactive art design program. It allows for the user to view and modify various elements of a moving, linear art design in a GUI window that is launched when the program is run.
 
 ## Requirements
-Ukulele Chimes orequires the following package to run:<br />
+Ukulele Chimes requires the following package to run:<br />
 * PyQt5<br />
 
 ## How It Works:
