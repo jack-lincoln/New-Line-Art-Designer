@@ -1,6 +1,6 @@
 # New-Line-Art-Designer
 New Line Art Designer is an interactive art design program. It opens a GUI that allows the user to modify elements of a moving art design. 
-Arithmetic and trigonometric functions may be altered or applied to the equation that creates the design, allowing for a great amoung of variations.
+Arithmetic and trigonometric functions may be altered or applied to the equation that creates the design, allowing for a great amount of variations.
 
 ## Requirements
 Ukulele Chimes requires the following package to run:<br />
